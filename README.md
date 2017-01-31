@@ -1,2 +1,3 @@
-# Base de Conhecimento
-To Know how [acesse a wiki](https://github.com/lpgoncalves/BaseDeConhecimento/wiki)
+# Biblioteca
+Projeto destinado ao compartilhamento de conhecimento. 
+[Acesse a wiki.](https://github.com/lpgoncalves/Biblioteca/wiki)
